@@ -4,7 +4,7 @@
 ```
 $ cd into directory
 ```
--create a cv_resume database in your mysql
+- create a cv_resume database in your mysql
 ```
 $ import the file from db folder
 ```
